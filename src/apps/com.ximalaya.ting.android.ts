@@ -19,7 +19,7 @@ export default defineGkdApp({
     {
       key: 2,
       name: '7天内不再提醒广告',
-      rules: [{ key: 7, fastQuery: true, matches: '[text="7天内不再提醒"]' }],
+      rules: [{ key: 1, fastQuery: true, matches: '[text="7天内不再提醒"]' }],
     },
     {
       key: 3,
